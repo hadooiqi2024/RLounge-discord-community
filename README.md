@@ -73,13 +73,10 @@
         <h1>RLounge discord community</h1>
         <div class="box">
             <p>Join our community now and connect with other gamers!</p>
-            <a <a href="https://discord.com/invite/1235488864773083198">Join our Discord Community</a>
->Join our community here</a>
+            <a href="https://discord.gg/Hwr5RjJx9q" class="subscribe-link">Join our community here</a>
         </div>
         <div class="subscribe-box">
-            <h2><a href="https://example.com/subscription?code=YOUR_SUBSCRIPTION_CODE">Subscribe Now for free!</a>
-</h2><a
-
+            <h2>Subscribe Now for Free!</h2>
             <p>Unlock exlusive roles by subscribing for free!</p>
             <?php
             if ($_SERVER["REQUEST_METHOD"] == "POST") {
